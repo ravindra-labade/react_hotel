@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "sr_no": "1",
+      "hotel": "Swarna",
+      "address": "Warje",
+      "table": "1",
+      "id": 1
+    },
+    {
+      "sr_no": "2",
+      "hotel": "Pruthvi",
+      "address": "Karvenagar",
+      "table": "2",
+      "id": 2
+    },
+    {
+      "sr_no": "3",
+      "hotel": "Kokan Express",
+      "address": "kothrud",
+      "table": "6",
+      "id": 3
+    }
+  ]
+}
